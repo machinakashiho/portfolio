@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43.86 38.18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffffed;
+      }
+    </style>
+  </defs>
+  <g id="_メイン" data-name="メイン">
+    <g id="_デザイン" data-name="デザイン">
+      <path class="cls-1" d="m43.43,18.13L22.91.31c-.82-.71-2.09-.13-2.09.95v8.22h-11.22C4.3,9.49,0,13.79,0,19.09s4.3,9.6,9.6,9.6h11.22v8.22c0,1.08,1.27,1.66,2.09.95l20.52-17.82c.58-.5.58-1.4,0-1.91Z"/>
+    </g>
+  </g>
+</svg>

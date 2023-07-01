@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 53.53 147.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ea6100;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #904e25;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.52px;
+      }
+
+      .cls-3 {
+        fill: #fbcb00;
+      }
+
+      .cls-4 {
+        fill: #904e25;
+        font-family: TsukuARdGothicStd-R-90ms-RKSJ-H, 'FOT-TsukuARdGothic Std';
+        font-size: 24.26px;
+      }
+
+      .cls-5 {
+        fill: #15722c;
+      }
+    </style>
+  </defs>
+  <g id="_メイン" data-name="メイン">
+    <g id="_デザイン" data-name="デザイン">
+      <g>
+        <line class="cls-2" x1="38.61" y1=".76" x2="38.61" y2="147.04"/>
+        <line class="cls-2" x1="38.61" y1=".76" x2="24.66" y2="22.32"/>
+        <text class="cls-4" transform="translate(21.35 144.84) rotate(-90)"><tspan x="0" y="0">Page top</tspan></text>
+        <circle class="cls-1" cx="47.47" cy="110.07" r="6.06"/>
+        <path class="cls-3" d="m52.7,129.73v-11.4c-.01-.39-.43-.63-.76-.44l-10.27,5.84c-.34.2-.34.69.01.88l10.27,5.56c.34.18.74-.06.74-.44h0Z"/>
+        <rect class="cls-5" x="42.35" y="133.18" width="10.24" height="10.24" rx=".44" ry=".44" transform="translate(-2.01 .71) rotate(-.84)"/>
+      </g>
+    </g>
+  </g>
+</svg>

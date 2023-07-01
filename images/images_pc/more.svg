@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #737061;
+        font-family: DNPShueiMGoStd-B-90ms-RKSJ-H, 'DNP ShueiMGoStd';
+        font-size: 16px;
+      }
+
+      .cls-2 {
+        fill: #f2efde;
+      }
+    </style>
+  </defs>
+  <g id="_メイン" data-name="メイン">
+    <g id="_デザイン" data-name="デザイン">
+      <rect class="cls-2" x="0" y="0" width="200" height="50" rx="24.75" ry="24.75"/>
+      <text class="cls-1" transform="translate(60 29.66)"><tspan x="0" y="0">もっとみる</tspan></text>
+    </g>
+  </g>
+</svg>

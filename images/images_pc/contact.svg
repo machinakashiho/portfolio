@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ea6100;
+      }
+
+      .cls-2 {
+        fill: #904e25;
+        font-family: DNPShueiMGoStd-B-90ms-RKSJ-H, 'DNP ShueiMGoStd';
+        font-size: 16px;
+      }
+
+      .cls-3 {
+        fill: #fbcb00;
+      }
+
+      .cls-4 {
+        fill: #15722c;
+      }
+    </style>
+  </defs>
+  <g id="_メイン" data-name="メイン">
+    <g id="_デザイン" data-name="デザイン">
+      <g>
+        <rect class="cls-3" x="0" y="0" width="220" height="55" rx="23.55" ry="23.55"/>
+        <g>
+          <text class="cls-2" transform="translate(99.45 32.26)"><tspan x="0" y="0">送　　信</tspan></text>
+          <g>
+            <rect class="cls-4" x="38.96" y="13.11" width="32.43" height="28.78" rx="11.72" ry="11.72"/>
+            <g>
+              <rect class="cls-3" x="44.56" y="20.69" width="21.26" height="13.63" rx=".42" ry=".42"/>
+              <path class="cls-1" d="m55.43,28.59l10.19-7.1c.35-.25.18-.8-.25-.8h-20.37c-.43,0-.61.56-.25.8l10.19,7.1c.15.11.35.11.51,0Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ea6100;
+      }
+
+      .cls-2 {
+        letter-spacing: .25em;
+      }
+
+      .cls-3 {
+        fill: #904e25;
+        font-family: DNPShueiMGoStd-B-90ms-RKSJ-H, 'DNP ShueiMGoStd';
+        font-size: 16px;
+      }
+
+      .cls-4 {
+        fill: #fbcb00;
+      }
+
+      .cls-5 {
+        fill: #15722c;
+      }
+    </style>
+  </defs>
+  <g id="_メイン" data-name="メイン">
+    <g id="_デザイン" data-name="デザイン">
+      <g>
+        <rect class="cls-4" x="0" y="0" width="220" height="55" rx="27.44" ry="27.44"/>
+        <g>
+          <text class="cls-3" transform="translate(80.46 32.26)"><tspan x="0" y="0">TO</tspan><tspan class="cls-2" x="22.16" y="0">P</tspan><tspan x="36.75" y="0">へもどる</tspan></text>
+          <g>
+            <rect class="cls-5" x="36.54" y="13.11" width="32.43" height="28.78" rx="14.36" ry="14.36"/>
+            <g>
+              <rect class="cls-4" x="44.15" y="24.46" width="17.19" height="11.02" rx=".34" ry=".34"/>
+              <path class="cls-1" d="m52.93,18.45l8.22,5.37c.29.19.15.64-.19.64h-16.43c-.34,0-.48-.45-.19-.64l8.22-5.37c.11-.08.26-.08.38,0Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
