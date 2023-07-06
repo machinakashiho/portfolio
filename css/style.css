@@ -1609,7 +1609,12 @@ ul {
         display: none;
     }
 
-
+    @media screen and (max-width: 767px) {
+        * {
+          margin: 0 auto;
+        }
+      }
+      
     /*hamburger MENU*/
 
     .sp-btn {
